@@ -1,0 +1,22 @@
+{
+  "name": "oauth2-client-sso",
+  "version": "1.0.0",
+  "description": "Package kết hợp với oauth2 client tạo đăng nhập single sign on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/redmix0901/oauth2-client-sso.js.git"
+  },
+  "keywords": [
+    "oauth2"
+  ],
+  "author": "Tu Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redmix0901/oauth2-client-sso.js/issues"
+  },
+  "homepage": "https://github.com/redmix0901/oauth2-client-sso.js#readme"
+}
